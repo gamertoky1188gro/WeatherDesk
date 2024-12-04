@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="WeatherDesk.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Hidden">
+        <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/> <!-- Row for the image -->
+            <RowDefinition Height="16"/>
+            <RowDefinition Height="Auto"/> <!-- Row for the button -->
+            <RowDefinition Height="Auto"/> <!-- Row for the button -->
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/> <!-- Row for the button -->
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,1" EndPoint="0,0">
+                <GradientStop Color="#19203D" Offset="1.0"/>
+                <GradientStop Color="#943DA8" Offset="0.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Image Source="Assets/imresizer-1733049572934.png"
+               Stretch="UniformToFill" 
+               Width="460" 
+               Height="460"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center" 
+               Grid.Row="0" /> 
+
+        <Grid Grid.Row="1"/>
+        <!-- TextBlock above the image -->
+            <TextBlock Text="Weather"
+                       Foreground="White"
+                       FontSize="46"
+                       FontWeight="bold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,20"
+                       Grid.Row="2" />
+            <TextBlock Text="ForeCasts"
+                       Foreground="Yellow"
+                       FontSize="46"
+                       FontWeight="bold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,20"
+                       Grid.Row="3" />
+        <Grid Grid.Row="4"/>
+
+        <Button x:ConnectionId='2' Content="Get Start"
+                Width="350"
+                Height="90"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Background="#DDB130"
+                Foreground="#302587"
+                FontSize="36"
+                BorderBrush="#DDB130"
+                BorderThickness="2"
+                Grid.Row="5"
+                                            >
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Border
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                    CornerRadius="50">
+                                    <ContentPresenter
+                                        HorizontalAlignment="Center"
+                                        VerticalAlignment="Center"
+                                        Content="{TemplateBinding Content}" />
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Grid Grid.Row="6"/>
+    </Grid>
+    </ScrollViewer>
+</Page>
+

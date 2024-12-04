@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BBF98-1D47-44B5-B8C5-4A4FD555B568}|WeatherDesk (Package)\\WeatherDesk (Package).wapproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk (package)\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{F41BBF98-1D47-44B5-B8C5-4A4FD555B568}|WeatherDesk (Package)\\WeatherDesk (Package).wapproj|solutionrelative:weatherdesk (package)\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\blankpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\blankpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\blankpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\blankpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\assets\\imresizer-1733049572934.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\assets\\imresizer-1733049572934.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\blankpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\blankpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\blankpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\blankpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\assets\\house.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\assets\\house.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherDesk\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|c:\\users\\rumki\\source\\repos\\weatherdesk\\weatherdesk\\assets\\h2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D4D0EA31-F2FE-4AAF-AE32-DB8C5F191CBD}|WeatherDesk\\WeatherDesk.csproj|solutionrelative:weatherdesk\\assets\\h2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "h2.png",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\Assets\\h2.png",
+              "RelativeDocumentMoniker": "WeatherDesk\\Assets\\h2.png",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\Assets\\h2.png",
+              "RelativeToolTip": "WeatherDesk\\Assets\\h2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-02T06:43:49.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "house.png",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\Assets\\house.png",
+              "RelativeDocumentMoniker": "WeatherDesk\\Assets\\house.png",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\Assets\\house.png",
+              "RelativeToolTip": "WeatherDesk\\Assets\\house.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-02T06:21:39.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlankPage2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage2.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherDesk\\BlankPage2.xaml.cs",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage2.xaml.cs",
+              "RelativeToolTip": "WeatherDesk\\BlankPage2.xaml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwHIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:10:00.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlankPage2.xaml",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage2.xaml",
+              "RelativeDocumentMoniker": "WeatherDesk\\BlankPage2.xaml",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage2.xaml",
+              "RelativeToolTip": "WeatherDesk\\BlankPage2.xaml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwMIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T13:09:25.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk (Package)\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "WeatherDesk (Package)\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk (Package)\\Package.appxmanifest",
+              "RelativeToolTip": "WeatherDesk (Package)\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-12-01T12:09:27.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "imresizer-1733049572934.png",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\Assets\\imresizer-1733049572934.png",
+              "RelativeDocumentMoniker": "WeatherDesk\\Assets\\imresizer-1733049572934.png",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\Assets\\imresizer-1733049572934.png",
+              "RelativeToolTip": "WeatherDesk\\Assets\\imresizer-1733049572934.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-01T11:03:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherDesk\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WeatherDesk\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:34:38.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlankPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage1.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherDesk\\BlankPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage1.xaml.cs",
+              "RelativeToolTip": "WeatherDesk\\BlankPage1.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:26:09.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\app.manifest",
+              "RelativeDocumentMoniker": "WeatherDesk\\app.manifest",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\app.manifest",
+              "RelativeToolTip": "WeatherDesk\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-11-30T18:22:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlankPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage1.xaml",
+              "RelativeDocumentMoniker": "WeatherDesk\\BlankPage1.xaml",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\BlankPage1.xaml",
+              "RelativeToolTip": "WeatherDesk\\BlankPage1.xaml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-30T18:22:41.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WeatherDesk\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\MainWindow.xaml",
+              "RelativeToolTip": "WeatherDesk\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-30T14:23:45.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\App.xaml",
+              "RelativeDocumentMoniker": "WeatherDesk\\App.xaml",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\App.xaml",
+              "RelativeToolTip": "WeatherDesk\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-30T14:22:16.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherDesk\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\App.xaml.cs",
+              "RelativeToolTip": "WeatherDesk\\App.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:19:09.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\App.g.i.cs",
+              "RelativeDocumentMoniker": "WeatherDesk\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\App.g.i.cs",
+              "RelativeToolTip": "WeatherDesk\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\App.g.i.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAArwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:17:04.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

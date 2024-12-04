@@ -1,0 +1,210 @@
+﻿<Page
+    x:Class="WeatherDesk.BlankPage2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WeatherDesk"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,1" EndPoint="0,0">
+                <GradientStop Color="#19203D" Offset="1.0"/>
+                <GradientStop Color="#943DA8" Offset="0.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+ 
+        <Grid x:ConnectionId='2' x:Name="aq"
+              Height="220"
+              Width="450"
+              CornerRadius="15"
+                HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   Margin="20,20,0,0" 
+                   Grid.Row="0">
+            <Grid.Background>
+                <ImageBrush ImageSource="Assets/image-1700x1276.jpg" Stretch="UniformToFill"/>
+            </Grid.Background>
+            <TextBlock Text="𖣘ᯓ Wind" FontSize="30" FontWeight="ExtraBold" Margin="20,10,0,0"/>
+            <TextBlock x:ConnectionId='13' x:Name="wind" Text="pls wait" FontSize="26" FontWeight="SemiBold" VerticalAlignment="Center" HorizontalAlignment="Center" HorizontalTextAlignment="Center"/>
+        </Grid>
+
+
+        <Grid Height="220"
+      Width="450"
+      CornerRadius="15"
+      HorizontalAlignment="Right"
+      VerticalAlignment="Center"
+      Margin="0,20,20,0"
+      Grid.Row="0">
+            <Grid.Background>
+                <ImageBrush ImageSource="Assets/image-1700x1276.jpg" Stretch="UniformToFill"/>
+            </Grid.Background>
+
+            <!-- First Child Grid -->
+            <Grid Height="166"
+      Width="200"
+      CornerRadius="15"
+      HorizontalAlignment="Left"
+      VerticalAlignment="Center"
+      Margin="20,0,0,0">
+                <Grid.Background>
+                    <ImageBrush ImageSource="Assets/images (1).jpg" Stretch="UniformToFill"/>
+                </Grid.Background>
+
+                <!-- Sunrise Label -->
+                <TextBlock Text="☼ Sunrise"
+               FontSize="24"
+               FontWeight="Bold"
+               FontStyle="Italic"
+               FontFamily="Linux"
+               Foreground="White"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Top"
+               Margin="0,10,0,0"/>
+
+                <!-- Sunrise Time -->
+                <TextBlock x:ConnectionId='11' x:Name="SR"
+               Text="Pls"
+               FontSize="32"
+               FontWeight="ExtraBold"
+               FontFamily="Linux"
+               Foreground="White"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"/>
+
+                <!-- Sunset Time -->
+                <TextBlock x:ConnectionId='12' x:Name="SS"
+               Text="WAit"
+               FontSize="16"
+               FontWeight="SemiBold"
+               FontFamily="Linux"
+               Foreground="White"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Bottom"
+               Margin="0,0,0,10"/>
+            </Grid>
+
+
+            <!-- Second Child Grid -->
+            <Grid Height="166"
+          Width="200"
+          CornerRadius="15"
+          HorizontalAlignment="Right"
+          VerticalAlignment="Center"
+          Margin="0,0,20,0">
+                <Grid.Background>
+                    <ImageBrush ImageSource="Assets/images (1).jpg" Stretch="UniformToFill"/>
+                </Grid.Background>
+                <TextBlock x:ConnectionId='10' x:Name="UvI"
+Text="Pls"
+FontSize="32"
+FontWeight="ExtraBold"
+FontFamily="Linux"
+Foreground="White"
+HorizontalAlignment="Center"
+VerticalAlignment="Center"/>
+            </Grid>
+        </Grid>
+
+
+        <!-- Weather Information -->
+        <Image Source="Assets/imresizer-1733049572934.png"
+               Stretch="UniformToFill" 
+               Width="190" 
+               Height="190"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Top" 
+               Grid.Row="0" />
+
+        <TextBlock x:ConnectionId='3' 
+            Text="pls wait"
+            x:Name="Temp"
+                   Foreground="White"
+                   FontSize="56"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,0"
+                   Grid.Row="1" />
+
+        <TextBlock x:ConnectionId='4'
+            Text="getting"
+            x:Name="PB"
+                   Foreground="White"
+                   FontSize="30"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,-15"
+                   Grid.Row="2" />
+
+        <!-- Side-by-side TextBlocks -->
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    Grid.Row="3"
+                    Margin="0,20,0,20">
+            <TextBlock x:ConnectionId='8' 
+                Text="data"
+                x:Name="MX"
+                       Foreground="White"
+                       FontSize="30"
+                       Padding="0,0,5,0" 
+                       Margin="0,0,10,0"/>
+            <TextBlock x:ConnectionId='9' 
+                Text="."
+                x:Name="MN"
+                       Foreground="White"
+                       FontSize="30"
+                       Padding="0,0,5,0" />
+        </StackPanel>
+
+        <!-- Shadow Card and Front Image -->
+        <Grid x:ConnectionId='5' x:Name="ShadowCanvas" Grid.Row="4">
+            <!-- Card (Border) -->
+            <Border x:ConnectionId='6'
+                x:Name="CardContainer"
+                Height="150"
+                CornerRadius="56"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Bottom"
+                Margin="0,0,0,30">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                        <GradientStop Color="#19203D" Offset="1.0"/>
+                        <GradientStop Color="#943DA8" Offset="0.0"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+                    <Grid x:ConnectionId='7' x:Name="f10w" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                          RowDefinitions="Auto" ColumnDefinitions="Auto">
+                    </Grid>
+                </ScrollViewer>
+
+            </Border>
+
+            <!-- Image Positioned Above Card -->
+            <Image Source="Assets/h2.png"
+                   Stretch="Uniform"
+                   Width="200"
+                   Height="200"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Bottom"
+                   Margin="0,0,0,90"
+                   RenderTransformOrigin="0.5,1">
+                <Image.RenderTransform>
+                    <TranslateTransform Y="-90" />
+                </Image.RenderTransform>
+            </Image>
+        </Grid>
+    </Grid>
+</Page>
+

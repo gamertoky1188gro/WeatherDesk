@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\bin\x86\Debug\WeatherDesk (Package)_1.0.0.0_x86_Debug.msix
+SymbolPackage=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\obj\x86\Debug\Symbols\WeatherDesk (Package)_1.0.0.0_x86_Debug.appxsym

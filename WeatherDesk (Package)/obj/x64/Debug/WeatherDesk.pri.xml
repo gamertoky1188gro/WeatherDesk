@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="WeatherDesk" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://WeatherDesk/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BlankPage1.xbf" uri="ms-resource://WeatherDesk/Files/BlankPage1.xbf">
+				<Candidate type="Path">
+					<Value>BlankPage1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BlankPage2.xbf" uri="ms-resource://WeatherDesk/Files/BlankPage2.xbf">
+				<Candidate type="Path">
+					<Value>BlankPage2.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainWindow.xbf" uri="ms-resource://WeatherDesk/Files/MainWindow.xbf">
+				<Candidate type="Path">
+					<Value>MainWindow.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="h2.png" uri="ms-resource://WeatherDesk/Files/Assets/h2.png">
+					<Candidate type="Path">
+						<Value>Assets\h2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="house.png" uri="ms-resource://WeatherDesk/Files/Assets/house.png">
+					<Candidate type="Path">
+						<Value>Assets\house.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="image-1700x1276.jpg" uri="ms-resource://WeatherDesk/Files/Assets/image-1700x1276.jpg">
+					<Candidate type="Path">
+						<Value>Assets\image-1700x1276.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="images (1).jpg" uri="ms-resource://WeatherDesk/Files/Assets/images (1).jpg">
+					<Candidate type="Path">
+						<Value>Assets\images (1).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imresizer-1733049572934.png" uri="ms-resource://WeatherDesk/Files/Assets/imresizer-1733049572934.png">
+					<Candidate type="Path">
+						<Value>Assets\imresizer-1733049572934.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="runtimes">
+				<ResourceMapSubtree name="win-x64">
+					<ResourceMapSubtree name="native">
+						<NamedResource name="WebView2Loader.dll" uri="ms-resource://WeatherDesk/Files/runtimes/win-x64/native/WebView2Loader.dll">
+							<Candidate type="Path">
+								<Value>runtimes\win-x64\native\WebView2Loader.dll</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

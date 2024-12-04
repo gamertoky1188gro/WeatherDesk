@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\bin\x64\Debug\WeatherDesk (Package)_1.0.0.0_x64_Debug.msix
+SymbolPackage=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\obj\x64\Debug\Symbols\WeatherDesk (Package)_1.0.0.0_x64_Debug.appxsym
+ResourcePack=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\bin\x64\Debug\WeatherDesk (Package)_1.0.0.0_scale-100.msix
+ResourcePack=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\bin\x64\Debug\WeatherDesk (Package)_1.0.0.0_scale-125.msix
+ResourcePack=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\bin\x64\Debug\WeatherDesk (Package)_1.0.0.0_scale-150.msix
+ResourcePack=C:\Users\Rumki\source\repos\WeatherDesk\WeatherDesk (Package)\bin\x64\Debug\WeatherDesk (Package)_1.0.0.0_scale-400.msix

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package).appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="WeatherDesk.CCM"
+		Version="1.0.0.0"
+		Publisher="CN=Rumki"
+		Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package)_1.0.0.0_Debug_Test/WeatherDesk (Package)_1.0.0.0_x86_x64_Debug.msixbundle" />
+	<Dependencies>
+		<Package
+			Name="Microsoft.WindowsAppRuntime.1.6"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package)_1.0.0.0_Debug_Test/Dependencies/x86/Microsoft.WindowsAppRuntime.1.6.msix"
+			Version="6000.318.2304.0" />
+		<Package
+			Name="Microsoft.WindowsAppRuntime.1.6"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package)_1.0.0.0_Debug_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.6.msix"
+			Version="6000.318.2304.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00.Debug.UWPDesktop"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package)_1.0.0.0_Debug_Test/Dependencies/x64/Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx"
+			Version="14.0.33728.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00.Debug.UWPDesktop"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package)_1.0.0.0_Debug_Test/Dependencies/x86/Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx"
+			Version="14.0.33728.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00.Debug"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package)_1.0.0.0_Debug_Test/Dependencies/x64/Microsoft.VCLibs.x64.Debug.14.00.appx"
+			Version="14.0.33519.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00.Debug"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="file:///C:/Users/Rumki/MyApps/winui/WeatherDesk/WeatherDesk (Package)_1.0.0.0_Debug_Test/Dependencies/x86/Microsoft.VCLibs.x86.Debug.14.00.appx"
+			Version="14.0.33519.0" />
+	</Dependencies>
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNaze8Od8WA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rumki\\source\\repos\\WeatherDesk\\WeatherDesk (Package)\\WeatherDesk (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rumki\\.nuget\\packages\\microsoft.web.webview2\\1.0.2651.64\\microsoft.web.webview2.1.0.2651.64.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.26100.1742\\microsoft.windows.sdk.buildtools.10.0.26100.1742.nupkg.sha512",
+    "C:\\Users\\Rumki\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.241114003\\microsoft.windowsappsdk.1.6.241114003.nupkg.sha512",
+    "C:\\Users\\Rumki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
